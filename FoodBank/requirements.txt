@@ -1,0 +1,6 @@
+Django==2.1.7
+pip install django
+Pillow==5.4.1
+pip install Pillow==5.4.1
+pytz==2018.9
+pip install pytz==2008c
